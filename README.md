@@ -12,7 +12,8 @@ A simple Python-based quiz game that fetches trivia questions and answers from t
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/yourusername/your-repository.git
+   git clone https://github.com/yourusername/Quiz-Game.git
+   cd Quiz-Game
 2. Make sure you have Python installed. You can download it from [python.org](https://www.python.org/).
 
 3. Run the game:
